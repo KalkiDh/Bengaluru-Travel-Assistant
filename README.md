@@ -50,29 +50,6 @@ bengaluru-travel-assistant/
 
 ---
 
-## 🔑 How to Use
-
-### 1. Clone the Project
-
-```bash
-git clone https://github.com/your-username/bengaluru-travel-assistant.git
-cd bengaluru-travel-assistant
-2. Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3. Add Your OpenAI API Key
-Create a .env file in the root directory with your OpenAI credentials:
-
-dotenv
-Copy
-Edit
-OPENAI_API_KEY=your_api_key_here
-
-
-
-
 ## 🖼️ Sample Frontend Screenshots
 
 ### Main Chat Area
@@ -96,9 +73,25 @@ OPENAI_API_KEY=your_api_key_here
 !(/images/Convo history .png)
 
 
+## 🔑 How to Use
 
+### 1. Clone the Project
 
+```bash
+git clone https://github.com/your-username/bengaluru-travel-assistant.git
+cd bengaluru-travel-assistant
+2. Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3. Add Your OpenAI API Key
+Create a .env file in the root directory with your OpenAI credentials:
 
+dotenv
+Copy
+Edit
+OPENAI_API_KEY=your_api_key_here
 
 
 
