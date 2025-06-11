@@ -1,0 +1,22 @@
+{
+    "id": "95050c78-52c9-43f0-91e7-05765f3a1035",
+    "timestamp": "2025-06-11T17:09:59.199143",
+    "messages": [
+        {
+            "role": "user",
+            "content": "what is rameshwaram cafe"
+        },
+        {
+            "role": "assistant",
+            "content": "The Rameshwaram Cafe is a popular vegetarian eatery in Bengaluru, known for serving delicious South Indian food. It has gained a lot of attention for its tasty dosas, idlis, vadas, and filter coffee, all served in a clean and vibrant setting. The cafe is inspired by traditional South Indian tiffin culture but presents it in a modern, quick-service style, making it a favorite spot for locals and visitors alike.\n\nThere are several branches across Bengaluru, including in areas like Indiranagar and Jayanagar. The place often gets busy, especially during breakfast and evening snack hours, so you might find queues, but the service is usually fast. If you\u2019re in Bengaluru and looking to experience authentic and flavorful South Indian fare, Rameshwaram Cafe is definitely worth a visit!"
+        },
+        {
+            "role": "user",
+            "content": "where is it located"
+        },
+        {
+            "role": "assistant",
+            "content": "The Rameshwaram Cafe has multiple locations in Bengaluru. Here are some of their popular branches:\n\n1. **Indiranagar**  \n   Address: 318, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038\n\n2. **JP Nagar**  \n   Address: 15th Cross Rd, 5th Phase, JP Nagar, Bengaluru, Karnataka 560078\n\n3. **Brookefield**  \n   Address: 90/3, Kundalahalli Main Rd, Brookefield, Bengaluru, Karnataka 560037\n\nThese are some of the main outlets, but new branches keep opening, so you might find one closer to your location as well! If you have a specific area in mind, let me know and I can help you find the nearest Rameshwaram Cafe."
+        }
+    ]
+}
