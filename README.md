@@ -53,24 +53,25 @@ bengaluru-travel-assistant/
 ## 🖼️ Sample Frontend Screenshots
 
 ### Main Chat Area
-
-(images/Bengaluru assistant.png)
+<img src="images/Bengaluru assistant.png" width="400"> 
 
 ---
 
 ### Context Understanding
 
-(/images/Context understanding.png)
+<img src="/images/Context understanding.png" width="400">
 
 ---
 
 ### Saving the conversation
 
-(/images/Saving the conversation.png)
+<img src="/images/Saving the conversation.png" width="400">
+
 
 ### Conversation History
 
-(/images/Convo history .png)
+<img src="/images/Convo history .png" width="400">
+
 
 
 ## 🔑 How to Use
