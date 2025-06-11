@@ -54,7 +54,7 @@ bengaluru-travel-assistant/
 
 ### Main Chat Area
 
-(/images/Bengaluru assistant.png)
+(images/Bengaluru assistant.png)
 
 ---
 
