@@ -1,5 +1,4 @@
-azure-ai-inference>=1.0.0
+azure-ai-inference>=1.0.0b9
 azure-core>=1.29.5
 python-dotenv>=1.0.0
 Flask
-python-dotenv
