@@ -54,23 +54,23 @@ bengaluru-travel-assistant/
 
 ### Main Chat Area
 
-!(/images/Bengaluru assistant.png)
+(/images/Bengaluru assistant.png)
 
 ---
 
 ### Context Understanding
 
-!(/images/Context understanding.png)
+(/images/Context understanding.png)
 
 ---
 
 ### Saving the conversation
 
-!(/images/Saving the conversation.png)
+(/images/Saving the conversation.png)
 
 ### Conversation History
 
-!(/images/Convo history .png)
+(/images/Convo history .png)
 
 
 ## 🔑 How to Use
